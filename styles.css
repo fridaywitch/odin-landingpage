@@ -48,6 +48,8 @@
     text-align: center;
     background: #440044;
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .clip1 {
