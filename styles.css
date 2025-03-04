@@ -31,3 +31,26 @@
 .home {
     margin-left: auto;
 }
+
+.section div{
+    background: #440044;
+    padding: 15px;
+}
+
+.sec2a {
+    text-align: center;
+    background: #440044;
+    font-size: 1.4em;
+    padding: 15px;
+}
+
+.sec2b {
+    text-align: center;
+    background: #440044;
+    padding: 15px;
+}
+
+.clip1 {
+    background: #440044;
+    padding: 15px;
+}
