@@ -1,0 +1,14 @@
+.headertext {
+    display: flex;
+}
+
+.headertext div{
+    background: #220033;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EECC00;
+    flex-grow: 0;
+}
+
+.headergap {
+    flex-grow: 1;
+}
