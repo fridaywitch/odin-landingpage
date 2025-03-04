@@ -4,6 +4,8 @@
 }
 
 .headertext div{
+    display: flex;
+    justify-content: space-between;
     background: #220033;
     font-family: Arial, Helvetica, sans-serif;
     color: #EECC00;
