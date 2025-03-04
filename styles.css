@@ -1,5 +1,6 @@
 .headertext {
     display: flex;
+    justify-content: space-between;
 }
 
 .headertext div{
